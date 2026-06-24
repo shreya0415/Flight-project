@@ -1,0 +1,8 @@
+flight-prediction/node_modules/
+flight-prediction/build/
+flight-prediction/.env
+venv/
+.env
+__pycache__/
+*.csv
+*.ipynb_checkpoints/
